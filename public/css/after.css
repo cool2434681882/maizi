@@ -1,0 +1,19 @@
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+.progress{
+    margin-bottom: 10px;
+}
+.wh64{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+.mar-t15{
+    margin-top: 15px;
+}
+footer{
+    padding: 20px;
+    font-weight: 400;
+    text-align: center;   
+}
